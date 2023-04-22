@@ -1,2 +1,3 @@
-# joke-app
-Learning react native for mobile development. Also using expo
+## Jokes app
+-Learning mobile development using Expo, React Native.
+-Jokes taken from simpleapis joke api
